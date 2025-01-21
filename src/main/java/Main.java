@@ -17,7 +17,7 @@ public class Main {
                 if (!model.isEmpty()) {
                     break;
                 }
-                System.out.println("Марка автомобиля не может быть пустой строкой");
+                System.out.println("Марка автомобиля не может быть пустой строкой ");
             }
 
             int speed = 0;
